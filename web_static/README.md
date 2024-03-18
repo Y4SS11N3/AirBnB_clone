@@ -43,3 +43,4 @@ In this part of the AirBnB clone project, we focus on the front-end, specificall
 
 ## Project Structure
 The project is structured into various directories and files, with a focus on separating HTML and CSS into distinct roles. The styles directory contains CSS files organized by their purpose (common styles, header, footer, filters, places), ensuring a modular and easy-to-navigate stylesheet system.
+
